@@ -73,4 +73,3 @@ int main() {
 //v1,&v2,sizeof(v1)
     memcmp(pt1,&t2,sizeof(pt1)); // recommend: sizeof(*pt1)
 }
-
