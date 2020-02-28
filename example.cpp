@@ -72,4 +72,4 @@ int main() {
     memcmp(&t1,pt2,sizeof(T1*)); // recommend: sizeof(struct T1)
 //v1,&v2,sizeof(v1)
     memcmp(pt1,&t2,sizeof(pt1)); // recommend: sizeof(*pt1)
-}
+} 
